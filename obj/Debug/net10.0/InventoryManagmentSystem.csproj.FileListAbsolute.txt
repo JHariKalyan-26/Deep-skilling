@@ -1,0 +1,14 @@
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\bin\Debug\net10.0\InventoryManagmentSystem.exe
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\bin\Debug\net10.0\InventoryManagmentSystem.deps.json
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\bin\Debug\net10.0\InventoryManagmentSystem.runtimeconfig.json
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\bin\Debug\net10.0\InventoryManagmentSystem.dll
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\bin\Debug\net10.0\InventoryManagmentSystem.pdb
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\obj\Debug\net10.0\InventoryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\obj\Debug\net10.0\InventoryManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\obj\Debug\net10.0\InventoryManagmentSystem.AssemblyInfo.cs
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\obj\Debug\net10.0\InventoryManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\obj\Debug\net10.0\InventoryManagmentSystem.dll
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\obj\Debug\net10.0\refint\InventoryManagmentSystem.dll
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\obj\Debug\net10.0\InventoryManagmentSystem.pdb
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\obj\Debug\net10.0\InventoryManagmentSystem.genruntimeconfig.cache
+C:\Users\jakka\OneDrive\Desktop\InventoryManagmentSystem\obj\Debug\net10.0\ref\InventoryManagmentSystem.dll
