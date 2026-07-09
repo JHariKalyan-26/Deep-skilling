@@ -1,1 +1,17 @@
+Enter Product Name to Search: Laptop
 
+Linear Search Result
+Product Found
+ID : 103
+Name : Laptop
+Category : Electronics
+
+Binary Search Result
+Product Found
+ID : 103
+Name : Laptop
+Category : Electronics
+
+Time Complexity
+Linear Search : O(n)
+Binary Search : O(log n)
