@@ -1,0 +1,22 @@
+Task List
+1  Complete Assignment  Pending
+2  Attend Meeting  Completed
+3  Submit Report  Pending
+
+Task Found
+ID : 2
+Name : Attend Meeting
+Status : Completed
+
+Task Deleted
+
+After Deletion:
+Task List
+2  Attend Meeting  Completed
+3  Submit Report  Pending
+
+Time Complexity
+Add Task : O(n)
+Search Task : O(n)
+Delete Task : O(n)
+Traverse Tasks : O(n)
