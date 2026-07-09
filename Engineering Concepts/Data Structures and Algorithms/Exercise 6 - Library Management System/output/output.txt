@@ -1,0 +1,8 @@
+Enter Book Title to Search: Data Structures
+
+Book Found using Linear Search
+Book Found using Binary Search
+
+Time Complexity
+Linear Search : O(n)
+Binary Search : O(log n)
