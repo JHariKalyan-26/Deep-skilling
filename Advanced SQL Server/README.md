@@ -17,3 +17,5 @@ Every exercise includes:
 - `Output/output.txt`
 
 The output files describe expected verification. For actual proof, execute each SQL file in SQL Server Management Studio and save screenshots of the Results/Messages panels.
+
+All hands-on exercises completed.
