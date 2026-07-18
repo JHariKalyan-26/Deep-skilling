@@ -1,4 +1,5 @@
-﻿EXPECTED OUTPUT
-
-Indexes are created successfully.
-The indexed query returns matching records and improves lookup performance.
+﻿Expected verification:
+- Laptop row is returned before and after the non-clustered index.
+- Order 1 is returned before and after the clustered index.
+- Composite-index query returns Order 1.
+- sys.indexes lists IX_Products_ProductName, IX_Orders_OrderDate and IX_Orders_CustomerID_OrderDate.

@@ -1,9 +1,19 @@
-﻿# Advanced SQL Server – Mandatory Hands-on
+﻿# Advanced SQL Server
 
-Completed mandatory Cognizant Deep-skilling exercises:
+Completed official Deep-skilling exercises:
 
-1. Ranking and Window Functions
-2. Create a Stored Procedure
-3. Return Data from a Stored Procedure
+1. Advanced Concepts
+2. Indexes
+3. Views
+4. Stored Procedures
+5. Functions
+6. Triggers
+7. Cursors
+8. Exception Handling
 
-Run the SQL files in Microsoft SQL Server Management Studio.
+Every exercise includes:
+- `solution.sql`
+- `README.md`
+- `Output/output.txt`
+
+The output files describe expected verification. For actual proof, execute each SQL file in SQL Server Management Studio and save screenshots of the Results/Messages panels.

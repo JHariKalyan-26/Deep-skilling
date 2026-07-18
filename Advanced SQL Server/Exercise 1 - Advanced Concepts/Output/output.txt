@@ -1,6 +1,7 @@
-﻿EXPECTED OUTPUT
-
-Advanced SQL queries execute successfully.
-The result displays records produced by joins, subqueries, CTEs, and set operations.
-
-Note: Actual row values depend on the sample data inserted in solution.sql.
+﻿Expected verification:
+- Ranking result shows top three price ranks per category.
+- GROUPING SETS, ROLLUP and CUBE show subtotals and grand totals.
+- Recursive CTE returns dates from 2025-01-01 to 2025-01-31.
+- MERGE updates products 1 and 2 and inserts product 8.
+- PIVOT shows January quantities by product; UNPIVOT converts them back.
+- Customer Alice appears with 4 orders.

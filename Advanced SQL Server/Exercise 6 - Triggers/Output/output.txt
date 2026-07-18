@@ -1,4 +1,5 @@
-﻿EXPECTED OUTPUT
-
-The trigger is created successfully.
-When the related INSERT, UPDATE, or DELETE operation runs, the trigger action is executed.
+﻿Expected verification:
+- Updating Employee 1 salary inserts one row into EmployeeChanges.
+- Employee 1 AnnualSalary becomes 63000.00 after salary changes to 5250.00.
+- A DELETE statement raises: Deletion of employee records is not allowed.
+- LOGON trigger code is included but commented for safety.

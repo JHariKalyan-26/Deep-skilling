@@ -1,4 +1,6 @@
-﻿EXPECTED OUTPUT
-
-The stored procedure is created successfully.
-Executing it returns the requested employee or department information.
+﻿Expected verification:
+- Department 3 initially returns Michael Johnson.
+- After sp_InsertEmployee, Department 3 contains Michael Johnson and Hari Kalyan.
+- Employee count for Department 3 = 2.
+- Total salary for Department 3 = 13500.00.
+- Employee 1 salary is updated to 5250.00.

@@ -1,8 +1,6 @@
-﻿EXPECTED OUTPUT
-
-The TRY block executes the SQL statement.
-When an error occurs, the CATCH block returns:
-- Error number
-- Error message
-- Error severity
-- Error state
+﻿Expected verification:
+- First employee insert succeeds.
+- Duplicate email is caught, logged in AuditLog and re-thrown.
+- Invalid department transfer is logged by nested catches and re-thrown.
+- Batch insert is rolled back because of duplicate email.
+- AuditLog contains entries for all handled errors.

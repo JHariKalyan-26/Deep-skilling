@@ -1,4 +1,6 @@
-﻿EXPECTED OUTPUT
-
-The user-defined function is created successfully.
-Calling the function returns the calculated value defined in solution.sql.
+﻿Expected verification:
+- Annual salary = monthly salary x 12.
+- Bonus = monthly salary x 15%.
+- Table-valued function with DepartmentID 3 returns Michael Johnson.
+- Employee 1 annual salary = 60000.00.
+- Total compensation combines annual salary and bonus.

@@ -1,4 +1,4 @@
-﻿EXPECTED OUTPUT
-
-The view is created successfully.
-Selecting from the view returns the joined and filtered records defined in solution.sql.
+﻿Expected verification:
+- Four views are created.
+- vw_EmployeeReport returns EmployeeID, FullName, DepartmentName, AnnualSalary and 10% Bonus.
+- John Doe annual salary = 60000.00 and bonus = 6000.00.

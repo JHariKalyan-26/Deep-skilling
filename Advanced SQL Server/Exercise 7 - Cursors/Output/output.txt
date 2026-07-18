@@ -1,4 +1,6 @@
-﻿EXPECTED OUTPUT
+﻿Expected Messages output:
+EmployeeID=1, Name=John Doe, DepartmentID=1, Salary=5000.00, JoinDate=2020-01-15
+EmployeeID=2, Name=Jane Smith, DepartmentID=2, Salary=6000.00, JoinDate=2019-03-22
+EmployeeID=3, Name=Bob Johnson, DepartmentID=3, Salary=5500.00, JoinDate=2021-07-30
 
-The cursor processes the selected rows one by one and prints or returns each processed record.
-The cursor closes and deallocates successfully.
+STATIC, DYNAMIC, FORWARD_ONLY and KEYSET sections each print the three employees.
