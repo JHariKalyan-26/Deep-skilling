@@ -1,0 +1,25 @@
+﻿.hero {
+  max-width: 760px;
+  margin: 5rem auto;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: clamp(2rem, 6vw, 4rem);
+  margin: 0.4rem 0 1rem;
+}
+
+.eyebrow {
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+
+.hero a {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.8rem 1.2rem;
+  border-radius: 10px;
+  background: #20242c;
+  color: white;
+  text-decoration: none;
+}

@@ -1,0 +1,11 @@
+﻿<article class="card">
+  <div>
+    <h3>{{ product().name }}</h3>
+    <p>{{ product().category }}</p>
+  </div>
+
+  <strong>{{ product().price | currency:'INR':'symbol':'1.0-0' }}</strong>
+  <span>Stock: {{ product().stock }} â€” {{ product().stock | stockStatus }}</span>
+
+  <button type="button" (click)="remove.emit(product().id)">Delete</button>
+</article>

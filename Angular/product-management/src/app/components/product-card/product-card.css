@@ -1,0 +1,22 @@
+﻿.card {
+  display: grid;
+  gap: 0.6rem;
+  padding: 1rem;
+  border: 1px solid #d9dce3;
+  border-radius: 12px;
+  background: white;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+}
+
+.card h3,
+.card p {
+  margin: 0;
+}
+
+.card button {
+  width: fit-content;
+  border: 0;
+  border-radius: 8px;
+  padding: 0.55rem 0.9rem;
+  cursor: pointer;
+}

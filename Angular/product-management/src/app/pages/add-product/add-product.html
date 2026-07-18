@@ -1,0 +1,30 @@
+﻿<section class="form-page">
+  <h1>Add Product</h1>
+
+  <form [formGroup]="form" (ngSubmit)="submit()">
+    <label>
+      Product name
+      <input formControlName="name" />
+    </label>
+    @if (form.controls.name.touched && form.controls.name.invalid) {
+      <small>Enter at least two characters.</small>
+    }
+
+    <label>
+      Category
+      <input formControlName="category" />
+    </label>
+
+    <label>
+      Price
+      <input type="number" formControlName="price" />
+    </label>
+
+    <label>
+      Stock
+      <input type="number" formControlName="stock" />
+    </label>
+
+    <button type="submit">Save product</button>
+  </form>
+</section>

@@ -1,0 +1,20 @@
+﻿<header>
+  <a class="brand" routerLink="/">{{ title }}</a>
+
+  <nav>
+    <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">
+      Home
+    </a>
+    <a routerLink="/products" routerLinkActive="active">Products</a>
+    <a routerLink="/add-product" routerLinkActive="active">Add Product</a>
+    <a routerLink="/about" routerLinkActive="active">About</a>
+  </nav>
+</header>
+
+<main>
+  <router-outlet />
+</main>
+
+<footer>
+  Cognizant Digital Nurture 5.0 â€” Angular 20
+</footer>

@@ -1,0 +1,28 @@
+﻿<section>
+  <div class="heading">
+    <div>
+      <p class="eyebrow">PRODUCT CATALOGUE</p>
+      <h1>Products</h1>
+    </div>
+
+    <input
+      type="search"
+      placeholder="Search by name or category"
+      [ngModel]="search()"
+      (ngModelChange)="search.set($event)"
+    />
+  </div>
+
+  @if (filteredProducts().length > 0) {
+    <div class="grid">
+      @for (product of filteredProducts(); track product.id) {
+        <app-product-card
+          [product]="product"
+          (remove)="deleteProduct($event)"
+        />
+      }
+    </div>
+  } @else {
+    <p>No matching products found.</p>
+  }
+</section>

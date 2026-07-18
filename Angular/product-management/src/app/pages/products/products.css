@@ -1,0 +1,31 @@
+﻿.heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: end;
+  margin-bottom: 1.5rem;
+}
+
+.heading h1,
+.heading p {
+  margin: 0;
+}
+
+.heading input {
+  width: min(100%, 360px);
+  padding: 0.8rem;
+  border: 1px solid #cfd3dc;
+  border-radius: 10px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.eyebrow {
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
