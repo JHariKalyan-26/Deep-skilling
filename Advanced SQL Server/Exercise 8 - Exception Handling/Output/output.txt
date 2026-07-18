@@ -1,0 +1,8 @@
+﻿EXPECTED OUTPUT
+
+The TRY block executes the SQL statement.
+When an error occurs, the CATCH block returns:
+- Error number
+- Error message
+- Error severity
+- Error state

@@ -1,0 +1,4 @@
+﻿EXPECTED OUTPUT
+
+The stored procedure is created successfully.
+Executing it returns the requested employee or department information.

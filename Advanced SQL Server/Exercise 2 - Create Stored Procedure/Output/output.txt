@@ -1,0 +1,8 @@
+﻿EXPECTED OUTPUT
+
+Stored procedures created successfully:
+- sp_GetEmployeesByDepartment
+- sp_InsertEmployee
+
+The first execution returns employees from Department 3.
+After insertion, Hari Kalyan is also returned for Department 3.

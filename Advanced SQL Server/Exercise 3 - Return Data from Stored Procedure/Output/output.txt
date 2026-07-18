@@ -1,0 +1,7 @@
+﻿EXPECTED OUTPUT
+
+DepartmentID  TotalEmployees
+------------  --------------
+3             2
+
+The count can vary if additional employee records are inserted.

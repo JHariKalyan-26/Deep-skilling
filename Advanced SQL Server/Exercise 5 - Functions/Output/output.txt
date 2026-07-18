@@ -1,0 +1,4 @@
+﻿EXPECTED OUTPUT
+
+The user-defined function is created successfully.
+Calling the function returns the calculated value defined in solution.sql.

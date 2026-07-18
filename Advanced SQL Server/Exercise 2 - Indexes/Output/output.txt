@@ -1,0 +1,4 @@
+﻿EXPECTED OUTPUT
+
+Indexes are created successfully.
+The indexed query returns matching records and improves lookup performance.

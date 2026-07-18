@@ -1,0 +1,8 @@
+﻿EXPECTED OUTPUT
+
+The query displays products category-wise with:
+- ROW_NUMBER
+- RANK
+- DENSE_RANK
+
+Only the top three price ranks from each category are returned.

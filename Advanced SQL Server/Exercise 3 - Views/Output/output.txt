@@ -1,0 +1,4 @@
+﻿EXPECTED OUTPUT
+
+The view is created successfully.
+Selecting from the view returns the joined and filtered records defined in solution.sql.

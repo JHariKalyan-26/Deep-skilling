@@ -1,0 +1,4 @@
+﻿EXPECTED OUTPUT
+
+The cursor processes the selected rows one by one and prints or returns each processed record.
+The cursor closes and deallocates successfully.

@@ -1,0 +1,6 @@
+﻿EXPECTED OUTPUT
+
+Advanced SQL queries execute successfully.
+The result displays records produced by joins, subqueries, CTEs, and set operations.
+
+Note: Actual row values depend on the sample data inserted in solution.sql.

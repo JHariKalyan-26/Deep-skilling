@@ -1,0 +1,4 @@
+﻿EXPECTED OUTPUT
+
+The trigger is created successfully.
+When the related INSERT, UPDATE, or DELETE operation runs, the trigger action is executed.
