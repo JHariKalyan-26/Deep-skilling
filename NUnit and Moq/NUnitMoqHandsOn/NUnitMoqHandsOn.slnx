@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HandsOnLib.Tests/HandsOnLib.Tests.csproj" />
+  <Project Path="HandsOnLib/HandsOnLib.csproj" />
+</Solution>
